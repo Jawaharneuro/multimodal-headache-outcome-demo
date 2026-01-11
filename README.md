@@ -68,7 +68,7 @@ Below is a screenshot from the Streamlit prototype showing:
 
 
 
-!\[App Screenshot](docs/app\_screenshot.png)
+!\[App Screenshot](app\_screenshot.png)
 
 
 
@@ -91,6 +91,7 @@ The prototype is intended solely as a methodological proof-of-concept for resear
 \- Predictions are illustrative only and must not be used for clinical decision-making.
 
 \- Future work would involve validated EHR and imaging datasets under appropriate ethical approvals and governance.
+
 
 
 
